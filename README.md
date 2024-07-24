@@ -1,1 +1,2 @@
-# criando-um-ransomware-com-python
+# Criando-um-Ransomware-com-Python
+Implementação de um Ransomware para criptografar arquivos utilizando a linguagem Python.
